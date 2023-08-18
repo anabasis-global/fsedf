@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "@patternfly/react-core": "4.276.8",
+    "@patternfly/react-icons": "4.93.6",
+    "@strapi/design-system": "1.6.6",
+    "commander": "10.0.0",
+    "execjs": "1.0.7",
+    "moment": "2.29.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0",
+    "vk-chat-bot": "16.0.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "keywords": [],
+  "name": "bot",
+  "description": null,
+  "version": "0.0.12",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
